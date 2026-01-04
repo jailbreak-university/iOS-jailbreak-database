@@ -1,0 +1,14 @@
+body {
+    background-color: green; /* background green */
+    color: blue; /* default text blue */
+}
+
+a {
+    color: red; /* make all links red */
+    text-decoration: none; /* optional: removes underline */
+}
+
+/* Optional: hover effect */
+a:hover {
+    text-decoration: underline; /* underline when hovered */
+}
